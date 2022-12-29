@@ -29,6 +29,10 @@ h1 {
   padding: 16px;
 }
 
+.intro-chunk p {
+  max-width: 340px;
+}
+
 main {
   background-color: hsla(0, 0%, 40%, 1);
   border-top: solid 8px hsla(0, 0%, 60%, 1);
